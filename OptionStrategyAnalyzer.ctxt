@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=OptionStrategyAnalyzer
+comment1.params=arr\ l
+comment1.target=double[][]\ DoubleToDoubleArr(double[],\ int)
+comment10.params=array\ start\ end
+comment10.target=double\ sumArray(double[],\ int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+comment3.params=profitsData\ timeIntervals
+comment3.target=void\ maain(double[][],\ double[])
+comment4.params=strategies\ metricName
+comment4.target=void\ displaySortedStrategies(java.util.List,\ java.lang.String)
+comment5.params=s1\ s2\ metricName
+comment5.target=int\ compareByMetric(OptionStrategyAnalyzer.StrategyMetrics,\ OptionStrategyAnalyzer.StrategyMetrics,\ java.lang.String)
+comment6.params=strategy\ metricName
+comment6.target=java.lang.String\ getMetricValue(OptionStrategyAnalyzer.StrategyMetrics,\ java.lang.String)
+comment7.params=profits\ timeIntervals\ name
+comment7.target=OptionStrategyAnalyzer.StrategyMetrics\ calculateMetrics(double[],\ double[],\ java.lang.String)
+comment8.params=profits
+comment8.target=double\ calculateRiskToRewardRatio(double[])
+comment9.params=profits\ timeIntervals
+comment9.target=double\ calculateShortTermVsLongTermProfit(double[],\ double[])
+numComments=11

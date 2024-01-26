@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ArrayConverter
+comment1.params=inputArray
+comment1.target=java.lang.String[]\ convertToStringArray(double[][])
+comment2.params=inputArray
+comment2.target=double[][]\ convertToDoubleArray(java.lang.String[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

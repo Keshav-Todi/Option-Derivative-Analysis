@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=FileReadWriteExample
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ mainn()
+comment3.params=filePath
+comment3.target=java.lang.String[]\ readFile(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String[]\ getUserInput()
+comment5.params=filePath\ newData\ writingMode
+comment5.target=void\ writeFile(java.lang.String,\ java.lang.String[],\ int)
+comment6.params=array
+comment6.target=java.lang.String\ arrayToString(java.lang.String[])
+numComments=7

@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=GBM
+comment1.params=
+comment1.target=GBM()
+comment10.params=min\ max\ points
+comment10.target=double[]\ linspace(double,\ double,\ int)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=drift\ vol\ T\ S0\ numberSimulations\ length
+comment9.target=generateGBM(double,\ double,\ double,\ double,\ int,\ int)
+numComments=11

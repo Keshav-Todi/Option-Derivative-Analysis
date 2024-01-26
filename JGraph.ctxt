@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=JGraph
+comment1.params=g
+comment1.target=void\ paintComponent(java.awt.Graphics)
+comment2.params=xVal\ yVal
+comment2.target=int[]\ translateToPixel(double,\ double)
+numComments=3

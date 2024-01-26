@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=OptionInvestment
+comment1.params=totalAmount\ ratio1\ ratio2\ callOptionPrice\ putOptionPrice
+comment1.target=void\ opi(double,\ double,\ double,\ double,\ double)
+comment2.params=totalAmount\ ratio1\ ratio2\ ratio3\ firstOptionPrice\ secondOptionPrice\ thirdOptionPrice
+comment2.target=void\ three_opi(double,\ double,\ double,\ double,\ double,\ double,\ double)
+comment3.params=totalAmount\ ratio1\ ratio2\ ratio3\ ratio4\ firstOptionPrice\ secondOptionPrice\ thirdOptionPrice\ fourthOptionPrice
+comment3.target=void\ four_opi(double,\ double,\ double,\ double,\ double,\ double,\ double,\ double,\ double)
+numComments=4

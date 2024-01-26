@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=ExtractNumbersFromString
+comment1.params=
+comment1.target=double[]\ inp()
+comment2.params=inputString
+comment2.target=double[]\ extractNumbers(java.lang.String)
+numComments=3
